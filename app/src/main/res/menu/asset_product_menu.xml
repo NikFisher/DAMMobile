@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id = "@+id/hammer"
+        android:title="Hammer"/>
+
+    <item android:id = "@+id/screwdriver"
+        android:title="Screwdriver"/>
+
+    <item android:id = "@+id/wrench"
+        android:title="Wrench"/>
+
+    <item android:id = "@+id/saw"
+        android:title="Saw"/>
+
+    <item android:id = "@+id/blowtorch"
+        android:title="Blow Torch"/>
+
+    <item android:id = "@+id/drill"
+        android:title="Drill"/>
+
+    <item android:id = "@+id/pliers"
+        android:title="Pliers"/>
+
+</menu>
